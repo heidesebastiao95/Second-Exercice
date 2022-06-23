@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f36a5db-33dd-4285-8d80-68a72bfffc63" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oQn165kfXfu6ANkRBi3bWRMCWb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercicio1" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="poo.Main" />
+      <module name="SegundoExercicio" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-15.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-15.0.1\lib&quot; --add-modules=javafx.controls,javafx.fxml" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1613234536335">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1613234536335" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1613233992140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613233992140" />
+    <state width="816" height="600" key="GridCell.Tab.0.bottom" timestamp="1613461409334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="816" height="600" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613461409334" />
+    <state width="816" height="600" key="GridCell.Tab.0.center" timestamp="1613461409334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="816" height="600" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613461409334" />
+    <state width="816" height="600" key="GridCell.Tab.0.left" timestamp="1613461409333">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="816" height="600" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613461409333" />
+    <state width="816" height="600" key="GridCell.Tab.0.right" timestamp="1613461409334">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="816" height="600" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613461409334" />
+    <state x="343" y="0" key="new project wizard" timestamp="1613419385580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1613419385580" />
+  </component>
+</project>
